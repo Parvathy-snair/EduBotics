@@ -1,0 +1,36 @@
+# 🚫 Python Cache & Build Artifacts
+_pycache_/
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.tmp
+
+# 🚫 Virtual Environments
+venv/
+env/
+parv_env/
+.edubotics_venv/
+
+# 🚫 Model and Checkpoints (Heavy files)
+models/
+onnx_model/
+openvino_model/
+gemma2b_onnx/
+*.onnx
+*.xml
+*.bin
+*.safetensors
+
+# 🚫 Voice & Temp files
+*.wav
+*.webm
+*.mp3
+temp_*
+recording.*
+
+# 🚫 IDE / System / Metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
