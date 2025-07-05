@@ -1,0 +1,13 @@
+flask
+flask-cors
+transformers
+optimum[openvino]
+torch
+pillow
+pytesseract
+vosk
+wave
+sounddevice
+soundfile
+numpy
+streamlit
