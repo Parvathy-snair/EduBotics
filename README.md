@@ -99,6 +99,36 @@ Visit http://localhost:5000 in your browser.
 
 - GPU acceleration is optional, not required
 
+# 📊 Project Summary
+
+## Outcomes:
+
+- Successfully built an offline teaching assistant with multimodal support (voice, text, image, and quiz).
+
+- Fast and private inference using OpenVINO-optimized Gemma 2B model.
+
+- Fully offline quiz generator that creates 5-topic-based MCQs using the same AI model.
+
+- Supports low-resource environments without internet.
+
+## Limitations:
+
+- High RAM/CPU usage during model optimization and loading.
+
+- Response quality depends on the prompt style and topic complexity.
+
+- Limited to English voice inputs using current Vosk model.
+
+## Future Scope:
+
+- Add support for more languages and diverse academic domains.
+
+- Enhance quiz generation with difficulty levels, explanations, and scoring insights.
+
+- Integrate additional modules such as formula solving, diagram-based Q&A, or offline textbook summarization.
+
+- Improve model size flexibility for ultra-low-resource devices.
+
 ## 📜 License
 
 This project is licensed under the MIT License.
