@@ -39,7 +39,7 @@ edubotics/
 
 ## ⚙️ Setup Instructions
 
-**📥 Download Required Models:**
+## 1. 📥 Download Required Models:
 To run this project offline, please download all the required models from the following Google Drive link and place them in the appropriate folders as mentioned in the setup instructions:
 https://drive.google.com/drive/folders/1_B6HZ3kklSEWHBQBzhYeFXwAZXIv3ISF?usp=drive_link
 
