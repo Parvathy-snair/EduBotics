@@ -88,7 +88,7 @@ Visit http://localhost:5000 in your browser.
 | `models/openvino_model/`  | Folder for storing OpenVINO-optimized Gemma 2B model                   |
 | `vosk-model-en-us-0.22/`  | Offline English voice recognition model (STT) used by Vosk             |
 | `.gitignore`              | Ignores unnecessary files like `__pycache__`, `venv/`, models, etc.    |
-| `README.md`               | This documentation file, beautifully made 😉                           |
+| `README.md`               | Contains project setup and summary.                                    |
 ---
 
 ## 📌 Notes
