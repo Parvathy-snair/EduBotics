@@ -120,31 +120,33 @@ Visit http://localhost:5000 in your browser.
 
 ## Outcomes:
 
-- Successfully built an offline teaching assistant with multimodal support (voice, text, image, and quiz).
+- Successfully built EduBotics, a fully offline AI-powered teaching assistant supporting text, voice, image-based Q&A, and topic-wise quiz generation.
 
-- Fast and private inference using OpenVINO-optimized Gemma 2B model.
+- Enabled fast and private AI inference using the Gemma-2B model optimized with OpenVINO, eliminating reliance on internet connectivity.
 
-- Fully offline quiz generator that creates 5-topic-based MCQs using the same AI model.
+- Implemented a functional offline MCQ generator, producing 5-question quizzes with answer evaluation from any given topic.
 
-- Supports low-resource environments without internet.
+- Designed for low-resource environments, ensuring accessibility even without continuous internet or GPU access.
 
-## Limitations:
+## Limitations: 
 
-- High RAM/CPU usage during model optimization and loading.
+- The application experiences high CPU/RAM usage during model initialization and processing, especially on older systems.
 
-- Response quality depends on the prompt style and topic complexity.
+- The accuracy and clarity of AI responses depend heavily on the prompt quality and topic specificity.
 
-- Limited to English voice inputs using current Vosk model.
+- Voice recognition is currently limited to English only, due to Vosk model constraints.
 
 ## Future Scope:
 
-- Add support for more languages and diverse academic domains.
+- Extend language support beyond English for broader usability across regions.
 
-- Enhance quiz generation with difficulty levels, explanations, and scoring insights.
+- Improve the quiz generator with additional features such as difficulty levels, explanations, and scoring breakdowns.
 
-- Integrate additional modules such as formula solving, diagram-based Q&A, or offline textbook summarization.
+- Integrate mathematical formula solving, diagram-based interactions, and offline textbook summarization features.
 
-- Improve model size flexibility for ultra-low-resource devices.
+- Optimize the platform to support lighter models, allowing smooth performance on ultra-low-resource devices.
+
+
 
 ## 📜 License
 
