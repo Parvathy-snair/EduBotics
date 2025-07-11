@@ -34,8 +34,6 @@ EduBotics is a completely offline AI-powered learning assistant built for classr
 
 - Custom-Built Quiz Engine: Automatically creates MCQs on any topic, allowing students to test their knowledge with real-time evaluation.
 
-- Extensible & Lightweight: No GPU required. Easily customizable for future modules like diagrams, formula solving, or regional languages.
-
 ## 📁 Folder Structure (Recommended)
 
 ```
