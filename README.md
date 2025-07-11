@@ -78,7 +78,7 @@ python setup.py
 
 ### ⚠️ Make sure you have at least 2GB free data and 5GB storage
 
-2. 🚀 Running the App
+# Running the EduBotics Assistant
 
 # Activate virtual environment (Windows)
 ```bash
