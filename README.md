@@ -77,12 +77,12 @@ python setup.py
 
 # Running the EduBotics Assistant
 
-# Activate virtual environment (Windows)
+## Activate virtual environment (Windows)
 ```bash
 venv\Scripts\activate
 ```
 
-# Start the Flask app
+## Start the Flask app
 ```bash
 python app.py
 ```
