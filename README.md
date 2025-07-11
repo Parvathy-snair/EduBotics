@@ -5,7 +5,7 @@
 > 🛠 Engineered with care for education, privacy, and speed.
 
 ---
-# Project Overview
+# 🧾 Project Overview
 
 EduBotics is a completely offline AI-powered learning assistant built for classrooms, students, and educational environments with limited or no internet access. Designed with modular capabilities — including voice, text, image, and quiz-based interaction — it leverages the power of the Gemma-2B model (via OpenVINO) for intelligent response generation and Vosk for offline voice recognition. With a strong focus on speed, privacy, and usability, EduBotics turns any standard computer into a smart personal tutor — entirely offline.
 
@@ -21,7 +21,7 @@ EduBotics is a completely offline AI-powered learning assistant built for classr
 - 🧩 **Modular Design**;	Built with Flask and Streamlit can be easily extended or embedded
 
 ---
-## What Makes EduBotics Unique?
+## 💡 What Makes EduBotics Unique?
 
  Truly Offline: Unlike most AI assistants that rely on online APIs, EduBotics runs entirely offline — from voice recognition to AI inference — using pre-downloaded models and optimized pipelines.
 
