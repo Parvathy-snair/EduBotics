@@ -2,7 +2,7 @@
 
 **EduBotics** is a fully offline intelligent assistant designed to help students learn through voice, text, and image-based interactions. It combines OpenVINO-optimized language models and voice recognition to deliver fast, private, and personalized learning support — without relying on the internet.
 
-> 🎓 Project Lead: Parvathy S Nair  
+> 🎓 Project Lead: Parvathy S Nair 
 > 🛠 Engineered with care for education, privacy, and speed.
 
 ---
